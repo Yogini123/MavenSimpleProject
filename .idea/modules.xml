@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MavenSimpleProject.iml" filepath="$PROJECT_DIR$/MavenSimpleProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maven_coreApi/Maven_coreApi.iml" filepath="$PROJECT_DIR$/Maven_coreApi/Maven_coreApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maven_coreImpl/Maven_coreImpl.iml" filepath="$PROJECT_DIR$/Maven_coreImpl/Maven_coreImpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maven_dao/Maven_dao.iml" filepath="$PROJECT_DIR$/Maven_dao/Maven_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maven_desctopUI/Maven_desctopUI.iml" filepath="$PROJECT_DIR$/Maven_desctopUI/Maven_desctopUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maven_web/Maven_web.iml" filepath="$PROJECT_DIR$/Maven_web/Maven_web.iml" />
+    </modules>
+  </component>
+</project>
